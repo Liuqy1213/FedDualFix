@@ -1,0 +1,207 @@
+{
+  "BITCOUNT": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\BITCOUNT_patch.txt",
+    "error": null
+  },
+  "summary": {
+    "total": 40,
+    "successful": 0,
+    "success_rate": 0.0
+  },
+  "BREADTH_FIRST_SEARCH": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\BREADTH_FIRST_SEARCH_patch.txt",
+    "error": null
+  },
+  "BUCKETSORT": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\BUCKETSORT_patch.txt",
+    "error": null
+  },
+  "DEPTH_FIRST_SEARCH": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\DEPTH_FIRST_SEARCH_patch.txt",
+    "error": null
+  },
+  "DETECT_CYCLE": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\DETECT_CYCLE_patch.txt",
+    "error": null
+  },
+  "FIND_FIRST_IN_SORTED": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\FIND_FIRST_IN_SORTED_patch.txt",
+    "error": null
+  },
+  "FIND_IN_SORTED": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\FIND_IN_SORTED_patch.txt",
+    "error": null
+  },
+  "FLATTEN": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\FLATTEN_patch.txt",
+    "error": null
+  },
+  "GCD": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\GCD_patch.txt",
+    "error": null
+  },
+  "GET_FACTORS": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\GET_FACTORS_patch.txt",
+    "error": null
+  },
+  "HANOI": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\HANOI_patch.txt",
+    "error": null
+  },
+  "IS_VALID_PARENTHESIZATION": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\IS_VALID_PARENTHESIZATION_patch.txt",
+    "error": null
+  },
+  "KHEAPSORT": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\KHEAPSORT_patch.txt",
+    "error": null
+  },
+  "KNAPSACK": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\KNAPSACK_patch.txt",
+    "error": null
+  },
+  "KTH": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\KTH_patch.txt",
+    "error": null
+  },
+  "LCS_LENGTH": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\LCS_LENGTH_patch.txt",
+    "error": null
+  },
+  "LEVENSHTEIN": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\LEVENSHTEIN_patch.txt",
+    "error": null
+  },
+  "LIS": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\LIS_patch.txt",
+    "error": null
+  },
+  "LONGEST_COMMON_SUBSEQUENCE": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\LONGEST_COMMON_SUBSEQUENCE_patch.txt",
+    "error": null
+  },
+  "MAX_SUBLIST_SUM": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\MAX_SUBLIST_SUM_patch.txt",
+    "error": null
+  },
+  "MERGESORT": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\MERGESORT_patch.txt",
+    "error": null
+  },
+  "MINIMUM_SPANNING_TREE": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\MINIMUM_SPANNING_TREE_patch.txt",
+    "error": null
+  },
+  "NEXT_PALINDROME": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\NEXT_PALINDROME_patch.txt",
+    "error": null
+  },
+  "NEXT_PERMUTATION": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\NEXT_PERMUTATION_patch.txt",
+    "error": null
+  },
+  "PASCAL": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\PASCAL_patch.txt",
+    "error": null
+  },
+  "POSSIBLE_CHANGE": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\POSSIBLE_CHANGE_patch.txt",
+    "error": null
+  },
+  "POWERSET": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\POWERSET_patch.txt",
+    "error": null
+  },
+  "QUICKSORT": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\QUICKSORT_patch.txt",
+    "error": null
+  },
+  "REVERSE_LINKED_LIST": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\REVERSE_LINKED_LIST_patch.txt",
+    "error": null
+  },
+  "RPN_EVAL": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\RPN_EVAL_patch.txt",
+    "error": null
+  },
+  "SHORTEST_PATHS": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\SHORTEST_PATHS_patch.txt",
+    "error": null
+  },
+  "SHORTEST_PATH_LENGTH": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\SHORTEST_PATH_LENGTH_patch.txt",
+    "error": null
+  },
+  "SHORTEST_PATH_LENGTHS": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\SHORTEST_PATH_LENGTHS_patch.txt",
+    "error": null
+  },
+  "SHUNTING_YARD": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\SHUNTING_YARD_patch.txt",
+    "error": null
+  },
+  "SIEVE": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\SIEVE_patch.txt",
+    "error": null
+  },
+  "SQRT": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\SQRT_patch.txt",
+    "error": null
+  },
+  "SUBSEQUENCES": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\SUBSEQUENCES_patch.txt",
+    "error": null
+  },
+  "TOPOLOGICAL_ORDERING": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\TOPOLOGICAL_ORDERING_patch.txt",
+    "error": null
+  },
+  "TO_BASE": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\TO_BASE_patch.txt",
+    "error": null
+  },
+  "WRAP": {
+    "success": false,
+    "patch_file": "D:\\UniDebugger-main\\data processing\\quixbugs_patches\\WRAP_patch.txt",
+    "error": null
+  }
+}
