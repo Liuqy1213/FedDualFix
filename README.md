@@ -34,7 +34,7 @@ If you want to see more detail, please see the paper.
 
 Second we evaluate specialized modules within the hierarchy (RepoFocus, Summarizer/Slicer, DescAligner, PatchRefiner), reporting their incremental gains and failure modes.
 
-![RQ4_b](./figs/RQ4_b.png)
+![RQ4_b](./figs/RQ3_b.png)
 
 4. In this RQ, we analyze federated training and confidence-guided agent scheduling, showing their effects on repair effectiveness, communication cost, and coordination efficiency across clients.
 
