@@ -4,7 +4,7 @@ This is the source code to the paper "FedDualFix：A Federated Multi-Agent Frame
 
 # Approach
 ![image](https://github.com/Liuqy1213/FedDualFix/blob/main/figs/framework.png)
-![image](https://github.com/Liuqy1213/FedDualFix/blob/main/figs/L3 triggers.png)
+![image](https://github.com/Liuqy1213/FedDualFix/blob/main/figs/L3_triggers.png)
 
 # Data preprocessing
 You can download the preprocessed dataset from here and place it under data/.
